@@ -320,7 +320,7 @@ img {
   line-height: 30px;
   display: inline-block;
   padding-left: 30px;
-  background: url(../images/emailss1.png) no-repeat left center;
+  background: url(/images/emailss1.png) no-repeat left center;
   background-size: 25px;
 }
 .nav_list {
@@ -425,7 +425,7 @@ img {
   width: 100%;
   overflow: hidden;
   position: relative;
-  background: url(../images/b2.jpg) no-repeat;
+  background: url(/images/b2.jpg) no-repeat;
   background-size: cover;
   padding: 300px 0;
 }
@@ -688,20 +688,20 @@ img {
   font-size: 16px;
   color: #333;
   padding-left: 30px;
-  background: url(../images/11.png) no-repeat left center;
+  background: url(/images/11.png) no-repeat left center;
   background-size: 22px;
 }
 .pro_in p.pl2 {
   font-size: 16px;
   color: #333;
   padding-left: 30px;
-  background: url(../images/22.png) no-repeat left center;
+  background: url(/images/22.png) no-repeat left center;
   background-size: 22px;
 }
 .pro_email {
   font-size: 18px;
   color: #16bae1;
-  background: url(../images/top_email.png) left center no-repeat;
+  background: url(/images/top_email.png) left center no-repeat;
   background-size: 22px 22px;
   padding-left: 30px;
   width: 100%;
@@ -755,7 +755,7 @@ img {
 .nav {
   position: relative;
   overflow: hidden;
-  background: url(../images/bg.jpg) no-repeat center center;
+  background: url(/images/bg.jpg) no-repeat center center;
   background-size: cover;
 }
 .nav ol {
@@ -766,7 +766,7 @@ img {
   margin-bottom: 20px;
   margin-top: 185px;
   padding-left: 30px;
-  background: url(../images/home.png) no-repeat left center;
+  background: url(/images/home.png) no-repeat left center;
   background-size: 18px;
 }
 .nav ol li {
@@ -840,22 +840,22 @@ img {
   transition: all 0.5s;
 }
 .contact_fore .item-01 .icon {
-  background-image: url(../images/icon_contact_01.png);
+  background-image: url(/images/icon_contact_01.png);
 }
 .contact_fore .item-02 .icon {
-  background-image: url(../images/icon_contact_02.png);
+  background-image: url(/images/icon_contact_02.png);
 }
 .contact_fore .item-03 .icon {
-  background-image: url(../images/icon_contact_03.png);
+  background-image: url(/images/icon_contact_03.png);
 }
 .contact_fore .item-03:hover .icon {
-  background-image: url(../images/icon_contact_03_hover.png);
+  background-image: url(/images/icon_contact_03_hover.png);
 }
 .contact_fore .item-01:hover .icon {
-  background-image: url(../images/icon_contact_01_hover.png);
+  background-image: url(/images/icon_contact_01_hover.png);
 }
 .contact_fore .item-02:hover .icon {
-  background-image: url(../images/icon_contact_02_hover.png);
+  background-image: url(/images/icon_contact_02_hover.png);
 }
 .contact_fore .contact-item h4 {
   margin-bottom: 20px;
@@ -982,7 +982,7 @@ img {
   position: absolute;
   width: 347px;
   height: 288px;
-  background: url(../images/ly-pic.png) no-repeat;
+  background: url(/images/ly-pic.png) no-repeat;
   right: 0;
   bottom: -44px;
 }
@@ -1066,11 +1066,11 @@ img {
   padding-left: 40px;
 }
 .contact_frcnt .pp1 {
-  background: url(../images/rg.png) no-repeat left center;
+  background: url(/images/rg.png) no-repeat left center;
   background-size: 30px;
 }
 .contact_frcnt .pp2 {
-  background: url(../images/ca.png) no-repeat left center;
+  background: url(/images/ca.png) no-repeat left center;
   background-size: 30px;
 }
 
@@ -1169,7 +1169,7 @@ img {
   position: relative;
   height: 180px;
   overflow: hidden;
-  background: url(../images/about_pro_bg.jpg) no-repeat top center;
+  background: url(/images/about_pro_bg.jpg) no-repeat top center;
   background-size: cover;
 }
 .loacter b {
@@ -1185,7 +1185,7 @@ img {
   font-size: 16px;
   line-height: 28px;
   padding-left: 24px;
-  background: url(../images/home.png) no-repeat left center;
+  background: url(/images/home.png) no-repeat left center;
   background-size: 16px;
 }
 .loacter p a {
@@ -1428,7 +1428,7 @@ img {
   color: #fff;
   margin-top: 20px;
   display: block;
-  background: url(../images/ca1.png) no-repeat left center;
+  background: url(/images/ca1.png) no-repeat left center;
   background-size: 24px 24px;
   text-align: left;
 }
@@ -2042,7 +2042,7 @@ img {
 /*new_list*/
 .new_list {
   padding: 30px 0;
-  background: url(../images/about_pro_bg.jpg) no-repeat bottom center;
+  background: url(/images/about_pro_bg.jpg) no-repeat bottom center;
   background-size: cover;
 }
 .new_list strong {
@@ -2395,7 +2395,7 @@ img {
   position: relative;
   z-index: 1;
   overflow: hidden;
-  background: url(../images/bg.jpg) no-repeat center;
+  background: url(/images/bg.jpg) no-repeat center;
   background-size: cover;
   padding: 40px 0;
 }
@@ -2449,21 +2449,21 @@ img {
 }
 
 .section_gap ul li h4.ht1 {
-  background: url(../images/comp1.png) no-repeat left center;
+  background: url(/images/comp1.png) no-repeat left center;
   background-size: auto 30px;
 }
 .section_gap ul li h4.ht2 {
-  background: url(../images/comp2.png) no-repeat left center;
+  background: url(/images/comp2.png) no-repeat left center;
   background-size: auto 30px;
 }
 
 .section_gap ul li h4.ht3 {
-  background: url(../images/comp3.png) no-repeat left center;
+  background: url(/images/comp3.png) no-repeat left center;
   background-size: auto 30px;
 }
 
 .section_gap ul li h4.ht4 {
-  background: url(../images/comp4.png) no-repeat left center;
+  background: url(/images/comp4.png) no-repeat left center;
   background-size: auto 30px;
 }
 
